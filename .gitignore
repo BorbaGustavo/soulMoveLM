@@ -1,0 +1,54 @@
+# =================( AMBIENTES VIRTUAIS )=================
+.venv/
+venv/
+env/
+ENV/
+.devcontainer/
+
+# =================( PYTHON & CACHE )=================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+.venv/Lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# =================( JUPYTER NOTEBOOKS )=================
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# =================( SEGREDOS E CONFIGURAÇÕES LOCAIS )=================
+.env
+.streamlit/secrets.toml
+
+# =================( IDEs E EDITORES )=================
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# =================( SISTEMA OPERATIVO )=================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
