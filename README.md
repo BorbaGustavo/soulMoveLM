@@ -30,6 +30,12 @@ A interface reflete a identidade da marca SoulMove através de uma paleta de cor
 
 ---
 
+## 🚀 Acesso ao Projeto em Produção
+
+* **Aplicação Web (Frontend - Streamlit):** [🔗 Aceder ao SoulMove]([https://seu-projeto.streamlit.app](https://soulmovelm-view.streamlit.app/))
+* **Documentação da API (Backend - FastAPI/Swagger):** [🔗 Ver Swagger Docs]([https://seu-projeto.onrender.com/docs](https://soulmovelm-api.onrender.com/docs#/))
+---
+
 ## 📂 Estrutura do Projeto
 
 ```text
@@ -48,3 +54,5 @@ soulMoveLM/
 ├── pyproject.toml                       # Configuração do projeto e dependências
 ├── requirements.txt                     # Dependências legadas / universais
 └── uv.lock                              # Lockfile de gestão de pacotes uv
+
+
