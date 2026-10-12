@@ -32,8 +32,8 @@ A interface reflete a identidade da marca SoulMove através de uma paleta de cor
 
 ## 🚀 Acesso ao Projeto em Produção
 
-- **Aplicação Web (Frontend - Streamlit):** [🔗 Aceder ao SoulMove]((https://soulmovelm-view.streamlit.app/))
-- **Documentação da API (Backend - FastAPI/Swagger):** [🔗 Ver Swagger Docs]((https://soulmovelm-api.onrender.com/docs#/))
+- **Aplicação Web (Frontend - Streamlit):** [🔗 Aceder ao SoulMove](https://soulmovelm-view.streamlit.app/)
+- **Documentação da API (Backend - FastAPI/Swagger):** [🔗 Ver Swagger Docs](https://soulmovelm-api.onrender.com/docs#/)
 ---
 
 ## 📂 Estrutura do Projeto
